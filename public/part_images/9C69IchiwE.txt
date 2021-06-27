@@ -1,0 +1,64 @@
+1.demoliting 200mm thick reinforced concrete surface beds,uom 50m2,unit rate?
+2.excavation hole in earth not exceeding 2m deep,uom 30m3.unit rate?
+3.excavation of soft rock,uom 100m3,unit rate?
+4.excavation of hard rock,uom 15m3,unit rate?
+5.surplus material from excation and or stock piles on side to a dumping side to be located by you,uom 75m3,unit rate?
+6.side of trench and hole excavations exceeding 1.5 deep,uom 1.5m deep,unit rate?
+7.backfilling to trenches and holes,uom 45m3,unit rate?
+8.compaction of ground surfaces,uom 120m2,unit rate?
+9.soil insecticide weed killer,uom 25m2,unit rate?
+10.unreinforced concrete cast against excavated surface 15mpa/19mm concrete,uom 10m3,unit rate?
+11.unreinforced concrete cast against excavated surface 30mpa/19mm concrete,uom 35m3.unit rate?
+12.reinforced concrede cast on/in formwork 30mpa/19mm slabs including beams and inverted beams ,oum 5m3,unit rate?
+13.reinforced concrede cast on/in formwork 30mpa/19mm stub colum,10m3,unit rate?
+14.making and testing 150x150x150mm concrete strength test tube,uom 100ea,unit rate?
+15.smooth formwork to side columns,uom 50m2,unit rate?
+16.smooth formwork to side beams propped up not excceding 2.5m high,uom 15m2,unit rate?
+17.mild steel reinforcement to structural concrete work ,uom 7.00t,unit rate?
+18.brick in superstructure one brick walls,uom 350m2,unit rate?
+19.brickwork reinforcement 150mmwide reinforcement build in horitally,uom 120m,unit rate?
+20.concrete prestressed fabrick lintels 110x75 lintels not exceeding 3m,uom 50m,unit rate?
+21.one layer 250 miron green polyethylene waterproof sheeting under surface beds ,uom 75m2,unit rate?
+22.window sills with 5mm wide and deep shadowline to junction with 
+150x 32mm thick sill,uom 20m,unit rate?
+23.wooden deck floor 21mm,uom 10m2,unit rate?
+24.supply and install L-shaped kitchen sink unit cupboard overall size 4,185 x 600x929mm high one side and 600x929mm high,uom 20ea,unit rate?
+25.supply and install wall mounted cupboard until over size 2.521x300x800mm high,uom 20ea,unit rate?
+26.6.5 gypsum plasterboard,ceiling not exceeding 1m below concrete,uom 350m2,unit rate?
+27.extra over ceiling for opening for 630x630mm trap door complete with trimmers,frame,ceiling board,uom 20ea,unit rate?
+28. 75mmcoved gypsum cornice,120m,unit rate?
+29. 0.5mm thick "donn"chromodek ceiling trim,uom 169m,unit rate?
+30. 135mm insulation in blanket form closely fitted and laid on top of bandering between roof timbers,uom 350m2,unit rate?
+
+31.dry wall partition,partitions 3.500m high with bottom and top tracks plugged,uom 100m,unit rate?
+32.extra over partition 3.500m high for vertical abutment,uom 167ea,unit rate?
+33.extra over partition 3.500m high for corner,uom 78ea,unit rate?
+34.extra over partion 3.500m high for fair end,uom 72ea,unit rate?
+
+sundries
+
+35.sound baffle 800mm high between suspended ceiling and light weight steel structure(boardrooms),uom 90m,
+36.strengthening of dry wall chip board or equally approved material all in accordance ,uom 123m2,
+37.extra over partition 3.500m high for t-intersection,uom 63,unit rate?
+38.extra over gyproc classic wall system(51f30s39)paritions for 40mm semi-solid flush dorrs with 25mm undercut hung to and including standatd natural anoidised alluminium door frame with pair of nylon washered alluminium hinges to each hanging stile.
+38.1 door 813x2031mm high,uom 50ea,unit rate?
+   2.door 813x2032mm high(type D02/T02),UOM 50 EA,
+
+
+GYPROC FIRE RESISTANT WALL SYSTEM (51F60S42) STEEL TUD PARTITION WITH BOTH SIDES CLAD WITH ONE LAYER OF 12.5 TAPER EDGE RHINOBOARD AND FILLED IN WITH 25MM THICK GLASS INSULATION IN BLANKET FORM WITH A DENSITY OF NOT LESS THAN 32KG.
+1.PARTITIONS 3.500M HIGH WITH BOTTOM AND TOP TRACKS PLUGGED,UOM 100M,unit rate?
+2.EXTRA OVER PARTION 3.500M HIGH FOR VERTICAL ABUTMENT,UOM 167EA,unit rate?
+3.EXTRA OVER PARTION 3.500M HIGH FOR CORNER,UOM 78EA,unit rate?
+4.EXTRA OVER PARTION 3.500M HIGH FOR T INTERSECTION,UOM 63,UNIT RATE?
+5.EXTRA OVER PARTION 3.500M HIGH FOR FAIR END,UOM 72,UNIT RATE?
+
+
+40.FLOOR COVERING
+1.BELGOTEX "BERBERPOINT 920"SHEET CARPETING INCLUDING UNDERFELT OR EQUALLY APPROVED FIXED TO TIMBER DECKING ON FLOORS,UOM 20M2,UNIT RATE?
+
+41.LOCKS MANUFACTURED BY DORMAKABA OR SIMILAR APPROVED 
+
+41.1 D037DSS CYLINDER DEADLOCK WITH 116.5HX78D CASE,168X22W FOREND AND 57MM BACKSET,UOM 50EA,UIT RATE?.
+   2.D037DSS CYLINDER DEADLOCK WITH 102H X 78D CASE,155X22W FOREND AND 57 BACKSET,UOM 45EA,UNIT RATE?
+   3.D036S SS CYLINDER SASH LOCK WITH 116.5H X 78D CASE,168H X 22W FOREND AND 57 BACKSET,UON 40EA,UINIT RATE?
+   4.
