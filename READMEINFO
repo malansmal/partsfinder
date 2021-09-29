@@ -1,0 +1,15 @@
+DATABASE partsnew_find DB User:partsnew_finders Password:Capetown2020#  or @ if not working
+Emails - \resources\views\e_mail
+Footer File - \recources\views\layouts\footer.blade.php
+Email Header – recources/views/layout
+Email To:\public_html\app\Http\contollers\HomeController.php
+Quote Expires Time 86400 to 604800 partsfinder\vendor\symfony\http-foundation\Session\Storage\Handler\MemcachedSessionHandler.php
+Password - partsfinder\bootstrap\cache\config.php (Deleeted from GitHub
+Password - partsfinder\database\seeds\UsersTableSeeder.php 
+Important File
+File to send emails to suppliers to quote  App\listeners\MessageSending
+
+When deleting Makes and Areas, also delete from from claims, claims_parts, quote, quote_parts, order table. 
+
+
+

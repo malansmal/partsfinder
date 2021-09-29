@@ -164,9 +164,17 @@
                     </div>
 
                     <div class="form-group text-center">
-                        <button class="btn btn-primary" type="submit" name="submit">
+						
+						<button class="btn btn-primary" type="submit" name="submit" onclick="this.disabled=true">
                             <i class="fa fa-envelope"></i> Submit Request
-                        </button>
+                         </button> ONLY CLICK ONCE PLEASE <br> Please refresh page if you have clicked "Submit Request" and it is now Greyed Out (if you can not click again) after being warned to complete a field
+						<!-- <button class="btn btn-primary" type="submit" name="submit" onsubmit="document.getElementById('submit_button').disabled = 1;">
+                            <i class="fa fa-envelope"></i> Submit Request
+                        </button> ONLY CLICK ONCE PLEASE PLS -->
+                        <!-- <button class="btn btn-primary" type="submit" name="submit" onclick="this.disabled=true;this.value='Sending, please wait...';this.form.submit();">
+                            <i class="fa fa-envelope"></i> Submit Request
+                        </button> ONLY CLICK ONCE PLEASE<br> Please refresh page if you have clicked "Submit Request" and it is now Greyed Out (if you can not click again) after being warned to complete a field
+						--> 
                     </div>
                 </form>
 
