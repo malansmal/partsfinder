@@ -79,13 +79,13 @@
                             <tbody>
                                 <tr>
                                     <td width="35%">
-                                        <input type="text" class="form-control description" id="description_1" name="description[0]" placeholder="Part Description" required />
+                                        <input type="text" class="form-control description" id="description_1" name="description[]" placeholder="Part Description" required />
                                     </td>
                                     <td width="35%">
-                                        <input type="text" class="form-control part_number" id="part_number_1" name="part_number[0]" placeholder="Part No" />
+                                        <input type="text" class="form-control part_number" id="part_number_1" name="part_number[]" placeholder="Part No" />
                                     </td>
                                     <td width="20%">
-                                        <input type="file" accept=".jpg, .jpeg, .png" class="image_upload"  name="image_upload[0]" id="image_upload_1">
+                                        <input type="file" accept=".jpg, .jpeg, .png" class="image_upload"  name="image_upload[]" id="image_upload_1">
                                     </td>
                                     <td width="10%" class="text-center"></td>
                                 </tr>
@@ -164,17 +164,9 @@
                     </div>
 
                     <div class="form-group text-center">
-						
-						<button class="btn btn-primary" type="submit" name="submit" onclick="this.disabled=true">
+                        <button class="btn btn-primary" type="submit" name="submit">
                             <i class="fa fa-envelope"></i> Submit Request
-                         </button> ONLY CLICK ONCE PLEASE <br> Please refresh page if you have clicked "Submit Request" and it is now Greyed Out (if you can not click again) after being warned to complete a field
-						<!-- <button class="btn btn-primary" type="submit" name="submit" onsubmit="document.getElementById('submit_button').disabled = 1;">
-                            <i class="fa fa-envelope"></i> Submit Request
-                        </button> ONLY CLICK ONCE PLEASE PLS -->
-                        <!-- <button class="btn btn-primary" type="submit" name="submit" onclick="this.disabled=true;this.value='Sending, please wait...';this.form.submit();">
-                            <i class="fa fa-envelope"></i> Submit Request
-                        </button> ONLY CLICK ONCE PLEASE<br> Please refresh page if you have clicked "Submit Request" and it is now Greyed Out (if you can not click again) after being warned to complete a field
-						--> 
+                        </button>
                     </div>
                 </form>
 
@@ -195,9 +187,9 @@
                             var $tr = $('#partsTable > tbody > tr:last-child');
                             var ind = parseInt(rows) - 1;
                             var tr = '<tr>' +
-                                '<td width="35%"><input type="text" class="form-control description" id="description_'+id+ '" name="description[' + ind + ']" placeholder="Part Description" required /></td>' +
-                                '<td width="35%"><input type="text" class="form-control part_number" id="part_number_'+id+ '" name="part_number[' + ind + ']"  placeholder="Part No" />' +
-                                '<td width="20%"><input type="file" accept=".jpg, .jpeg, .png" class="image_upload" name="image_upload[' + ind + ']" id="image_upload_'+id+ '"/></td>' +
+                                '<td width="35%"><input type="text" class="form-control description" id="description_'+id+ '" name="description[]" placeholder="Part Description" required /></td>' +
+                                '<td width="35%"><input type="text" class="form-control part_number" id="part_number_'+id+ '" name="part_number[]"  placeholder="Part No" />' +
+                                '<td width="20%"><input type="file" accept=".jpg, .jpeg, .png" class="image_upload" name="image_upload[]" id="image_upload_'+id+ '"/></td>' +
                                 '<td width="10%" class="text-center"><button type="button" class="btn btn-danger remove"><i class="fa fa-trash-o"></i></button></td></tr>';
 
                             $tr.after(tr);

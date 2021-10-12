@@ -41,7 +41,6 @@ class HomeController extends Controller
     }
 
     public function findMe(Request $request){
-      
         $descriptions   = $request->get('description');
         $partNumber     =  $request->get('part_number');
         $images         = $request->file('image_upload');
@@ -50,8 +49,6 @@ class HomeController extends Controller
         $makeId         = $request->get('make_id');
         $client_name    =  $request->get('client_name');
         $client_email   =  $request->get('client_email');
-        
-       
 
         $data = $request->only(['client_name', 'contact_no', 'client_email', 'make_id', 'make_model', 'vin', 'year', 'received_date', 'area_id', 'reference_cn']);
         $claimNo = $data['claim_no'] = getQuoteNumber();
@@ -78,12 +75,11 @@ class HomeController extends Controller
 
             $part = Parts::create($partData);
         }
-        
 
         $subject = "New PartFinders parts request found! $claimNo";
         //Need to send email here
         $suppliers = PartsSuppliers::getSupplierByAreaMakeId($areaId, $makeId);
- 
+
         foreach ($suppliers as $supplier){
             $name   = $supplier->supplier_name;
             $email  = $supplier->supplier_email;
